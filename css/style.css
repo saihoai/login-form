@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+	.modal-dialog { width: 400px; }
+}
+.btn-default,
+.modal-header { background: #6f5499; color: #fff; }
+.modal-header { border-radius: 6px 6px 0 0; }
+.modal-header .close { color: #fff; }
+.modal-content { border: 0 none; }
+.modal-body .input-group .form-control { background: #eee; border-right: 0 none; box-shadow: none; color: #aaa; }
+.modal-body .input-group .form-control:focus { border-color: #ccc; }
+.modal-body .input-group .input-group-addon { color: #aaa; }
